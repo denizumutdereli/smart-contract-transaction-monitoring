@@ -1,10 +1,10 @@
-# Ethereum Smart Contract Transaction Monitor
+# Ethereum Smart Contract Transaction Monitoring
 
 This project demonstrates how to monitor Ethereum smart contract transactions in real-time using Etherscan, InfluxDB, and Grafana. It fetches transaction data from the Ethereum blockchain via the Etherscan API, stores it in InfluxDB, and visualizes it in Grafana.
 
 ## Table of Contents
 
-- [Ethereum Smart Contract Transaction Monitor](#ethereum-smart-contract-transaction-monitor)
+- [Ethereum Smart Contract Transaction Monitoring](#ethereum-smart-contract-transaction-monitor)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Tech Stack](#tech-stack)
@@ -30,9 +30,8 @@ This project provides a comprehensive solution for real-time monitoring of Ether
 - **Python**: Offers the flexibility and libraries necessary for blockchain data retrieval and processing.
 
 ## Setup and Configuration
-     ```
-     docker-compose up -d
-     ```
+
+```docker-compose up -d```
 
 ### Etherscan API
 
